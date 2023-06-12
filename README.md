@@ -13,13 +13,6 @@
 - [😎 Author](#author)
 
 
-## 🗺️ The roadmap
-- [🧠 Courses](#courses)
-- [📅 The calendar](#the-calendar)
-- [🔗 Links](#links)
-- [📦 Useful resources](#useful-resources)
-- [😎 Author](#author)
-
 
 ## 🗺️ The roadmap
 
