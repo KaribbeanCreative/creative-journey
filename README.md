@@ -17,13 +17,92 @@
 
 ## 🗺️ The roadmap
 
-- ✔️ ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+### ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
-- ✔️ ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+- [✔️] **Basic structure**</br>
+`<!Doctype>, <html>, <head>, <body>`
 
-- ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+- [✔️] **Tags** </br>
+`<h1> to <h6>, <p>, <a>, <img>, <ul> and <ol>, <table>`
 
-- ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+- [✔️] **Attributes** </br>
+`href, src, alt, class, etc.`
+
+- [✔️] **Semantic tags**</br>
+`<header>, <nav>, <main>, <section>, <article>, <aside>, <footer>`
+
+- [✔️] **Links**</br>
+internal and external links</br>
+`<a>, href`
+
+- [✔️] **Images**</br>
+`<img>, src, alt`
+
+- [✔️] **Lists**</br>
+`<ol>, <ul>, <li>`
+
+- [✔️] **Tables**</br>
+`<table>, <tr>, <th>, <td>`
+
+- [✔️] **Forms**</br>
+`<form>, <input>, <select>, <textarea>, etc.`
+
+- [✔️] **Web Accessibility**</br>
+`alt, aria-label, <select>, <textarea>, etc.`
+
+
+### ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+- [✔️] **Selectors**</br>
+`basic selectors, class selectors, ID selectors, attribute selectors, pseudo-class selectors, etc`
+
+- [✔️] **CSS properties**</br>
+Like `color, font-family, font-size, font-weight, margin, padding, border, background, etc`
+
+- [✔️] **Box model**</br>
+Understanding CSS Box Model : `element, padding, border, margin`
+
+- [✔️] **Position**</br>
+`static, relative, absolute, fixed`
+
+- [✔️] **Layout**</br>
+`Flexbox, Grid`
+
+- [] **Responsive**</br>
+`@media, em, rem, %`
+
+- [] **Animations and transitions**</br>
+`transition, animation, keyframes, etc`
+
+- [] **Advanced Styles**</br>
+`:nth-child(), :hover, :focus, custom css, transform, box-shadow`
+
+- [] **Good practices**</br>
+`BEM, SMACSS, minification, management of obsolete browsers, etc.`
+
+
+### ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+
+- variables
+
+- mixins
+
+- boucles
+
+
+### ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+
+
+
+
+
+
+
+
+
+
+- 
 
 - ✔️ ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
