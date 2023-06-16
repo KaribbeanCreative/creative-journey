@@ -136,3 +136,8 @@ Understanding CSS Box Model : `element, padding, border, margin`
 - Difference between expressions and statements ;
 - The conditional Ternary operator ;
 - Brief history of JavaScript ;
+
+📆 15/06/2023
+- what is strict mode and how to activate it ;
+- The conditional Ternary operator ;
+- Brief history of JavaScript ;
